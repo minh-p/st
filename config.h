@@ -8,7 +8,7 @@
 
 #include "/home/hmp/.cache/wal/colors-wal-st.h"
 
-static char *font = "Source Code Pro:pixelsize=16:antialias=true:autohint=true";
+static char *font = "Source Code Pro:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
